@@ -21,7 +21,7 @@ VALUES
     ('Finance clerk', 60000, 4),
     ('Software engineer', 70000, 2);
 
-    INSERT INTO employees (first_name, last_name, roles_id, manager_id)
+    INSERT INTO employees (first_name, last_name, roles_id, employee_id)
 VALUES 
     ('Orlando', 'Nelson', 5, 7),
     ('Ashley', 'James', 6, 8),
