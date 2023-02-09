@@ -1,5 +1,6 @@
-const inquirer = require('inquirer');
+
 const express = require('express');
+var inquirer = require('inquirer');
 const mysql = require('mysql2');
 const consoleTables = require("console.table");
 
